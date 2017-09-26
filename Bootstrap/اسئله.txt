@@ -1,0 +1,10 @@
+1-problem in rotate
+locatation:-
+file name: stylesheet.css
+start from line number(287)
+
+1-problem in loading page
+locatation:-
+file name(My Project.html) in line number(673)
+file name(stylesheet.css) in line number(635)
+file name(plugins.js) in line number(51)

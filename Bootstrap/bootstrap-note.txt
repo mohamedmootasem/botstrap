@@ -1,0 +1,39 @@
+Grid system
+___________
+<!--lg===Large Screens
+    md===Medium Screens
+    sm===Small Screen
+    xs===Extra Small Screen
+    COL===COLUMN
+    LG===LARG SCREEM-->
+<!--Grid system= 12unit-->  
+clss=img-responsive  ÈíÙÈØ ÇáÕæÑ æÊØÍØ ŞÈá(src)
+---------------------------------------
+navbar
+______
+navbar-inverse		íÚßÓ ÇáÇáæÇäíÍæá ÇáÇÈíÖ áÇÓæÏ
+navbar-fixed-top	ÈíÎáí ÇáäİÈÇÑ íäÒá ãÚ ÇáÕİÍå ãä ÛíÑ ãÇ íÎÊİí
+background:rgba(3,3,3,0.5) íÚãá Îáİíå ÔİÇİå
+------------------------------------------
+btn
+___
+class="btn btn-Primary     ÃÒÑŞ
+class="btn btn-success    ÃÎÖÑ
+class="btn btn-info       ÓãÇæí
+class="btn btn-danger     ÃÍãÑ
+-----------------------------------------------
+class=
+______
+center-block      ÈíæÓØä(ÈíÎáíå İí ÇáäÕ)
+img-circle          ÈíÎáí ÇáÕæÑå Úáì Ôßá ÏÇÆÑí
+
+
+
+
+
+
+C39
+
+
+
+
